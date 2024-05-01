@@ -1,0 +1,15 @@
+C:\projetos\bots\bot-fila-email\bot-fila-email\bin\Debug\net6.0\bot-fila-email.exe
+C:\projetos\bots\bot-fila-email\bot-fila-email\bin\Debug\net6.0\bot-fila-email.deps.json
+C:\projetos\bots\bot-fila-email\bot-fila-email\bin\Debug\net6.0\bot-fila-email.runtimeconfig.json
+C:\projetos\bots\bot-fila-email\bot-fila-email\bin\Debug\net6.0\bot-fila-email.dll
+C:\projetos\bots\bot-fila-email\bot-fila-email\bin\Debug\net6.0\bot-fila-email.pdb
+C:\projetos\bots\bot-fila-email\bot-fila-email\obj\Debug\net6.0\bot-fila-email.csproj.AssemblyReference.cache
+C:\projetos\bots\bot-fila-email\bot-fila-email\obj\Debug\net6.0\bot-fila-email.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\bots\bot-fila-email\bot-fila-email\obj\Debug\net6.0\bot-fila-email.AssemblyInfoInputs.cache
+C:\projetos\bots\bot-fila-email\bot-fila-email\obj\Debug\net6.0\bot-fila-email.AssemblyInfo.cs
+C:\projetos\bots\bot-fila-email\bot-fila-email\obj\Debug\net6.0\bot-fila-email.csproj.CoreCompileInputs.cache
+C:\projetos\bots\bot-fila-email\bot-fila-email\obj\Debug\net6.0\bot-fila-email.dll
+C:\projetos\bots\bot-fila-email\bot-fila-email\obj\Debug\net6.0\refint\bot-fila-email.dll
+C:\projetos\bots\bot-fila-email\bot-fila-email\obj\Debug\net6.0\bot-fila-email.pdb
+C:\projetos\bots\bot-fila-email\bot-fila-email\obj\Debug\net6.0\bot-fila-email.genruntimeconfig.cache
+C:\projetos\bots\bot-fila-email\bot-fila-email\obj\Debug\net6.0\ref\bot-fila-email.dll
